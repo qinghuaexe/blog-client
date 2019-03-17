@@ -1,5 +1,5 @@
 <template>
-  <div id="login">登录页面</div>
+  <div id="detail">博客详情页面</div>
 </template>
 
 <script src="./template.js">
