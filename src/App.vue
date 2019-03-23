@@ -22,9 +22,6 @@ export default {
 </script>
 
 <style lang='less'>
-
-@import "./assets/common.less";
-
 #app {
  display: grid;
  grid-template-columns: 12% auto 12%;
